@@ -5,11 +5,7 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What tag is needed to load JavaScript scripts into an HTML document?
-  <!DOCTYPE html>: Declares the document type and version of HTML.
-  <html>: The root element of an HTML page.
-  <head>: Contains meta-information about the document, such as its title and link to CSS files.
-  <title>: Specifies a title for the document, shown in the browser's title bar or tab.
-  <body>: Contains the visible page content, such as text, images, links, tables, and lists.
+  script
 
 - How do you use a script tag to write JavaScript directly in the HTML document?
   write within script tag
