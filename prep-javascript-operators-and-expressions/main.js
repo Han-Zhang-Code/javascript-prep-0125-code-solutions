@@ -6,7 +6,7 @@ console.log('the type of the product: ', typeof product);
 
 const charge = 2;
 const payment = 1;
-const amountRemaining = charge * payment;
+const amountRemaining = charge - payment;
 console.log('the value of amountRemaining: ', amountRemaining);
 console.log('the type of the amountRemaining: ', typeof amountRemaining);
 
